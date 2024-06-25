@@ -1,7 +1,7 @@
 #import openai
 import ollama
 import sys
-sys.path.append('C:\\Users\\sheld\\Downloads\\tree-of-thought-puzzle-solver\\common')
+sys.path.append('PATH')
 from common.enums import ChatbotType
 from common.config import Config 
 
